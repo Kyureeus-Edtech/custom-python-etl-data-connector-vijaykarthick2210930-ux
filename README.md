@@ -46,7 +46,7 @@ RETRY_SLEEP_SECONDS=3
 ## Run
 
 ```bash
-python nvd_connector.py
+python api_call.py
 ```
 
 ## Transform schema (per document)
